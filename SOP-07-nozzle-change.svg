@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+<rect width="800" height="600" fill="white"/>
+<text x="40" y="50" font-size="28" font-family="Arial" font-weight="bold">SOP-07 Nozzle change (ZX-200)</text>
+<text x="40" y="110" font-size="20" font-family="Arial">1. Heat the nozzle to 240 C before removing it.</text>
+<text x="40" y="150" font-size="20" font-family="Arial">2. Hold the heater block with the 7 mm wrench.</text>
+<text x="40" y="190" font-size="20" font-family="Arial">3. Unscrew the old nozzle and place it in the tray.</text>
+<text x="40" y="230" font-size="20" font-family="Arial">4. Fit the new nozzle and tighten to 1.5 N·m while hot.</text>
+<text x="40" y="270" font-size="20" font-family="Arial">5. Run the first-layer test print and check for gaps.</text>
+<text x="40" y="330" font-size="18" font-family="Arial" fill="red">Warning: the nozzle is hot. Wear heat-resistant gloves.</text>
+<circle cx="600" cy="460" r="60" fill="#ccc" stroke="black"/><polygon points="600,520 580,560 620,560" fill="#888"/>
+<text x="540" y="590" font-size="14" font-family="Arial">Nozzle</text>
+</svg>
